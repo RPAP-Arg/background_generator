@@ -1,1 +1,3 @@
-#Esto es un texto para probar la sincronizacion con git y gihub
+#Esto es un texto para probar la sincronizacion con git y gihub.
+
+Pero ahora lo modifico para seguir probando
